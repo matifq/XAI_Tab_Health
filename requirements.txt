@@ -481,7 +481,7 @@ spyder-kernels @ file:///home/conda/feedstock_root/build_artifacts/spyder-kernel
 SQLAlchemy @ file:///croot/sqlalchemy_1718378176902/work
 srsly==2.4.8
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-starlette==0.41.3
+starlette==1.2.0
 statsmodels @ file:///croot/statsmodels_1718381181899/work
 streamlit @ file:///croot/streamlit_1701377619695/work
 sympy @ file:///croot/sympy_1701397643339/work
